@@ -1,0 +1,1161 @@
+[15-Mar-2025 12:04:39 UTC] Filtering users by tag ID: 4
+[15-Mar-2025 12:06:21 UTC] Filtering users by tag ID: 4
+[15-Mar-2025 12:06:21 UTC] Users found: 2
+[15-Mar-2025 12:06:44 UTC] Filtering users by tag ID: 4
+[15-Mar-2025 12:06:44 UTC] Users found: 2
+[15-Mar-2025 12:06:44 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+            [0] => 2
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:06:52 UTC] Filtering users by tag ID: 2
+[15-Mar-2025 12:06:52 UTC] Users found: 1
+[15-Mar-2025 12:06:52 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+            [0] => 1
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:06:58 UTC] Filtering users by tag ID: 4
+[15-Mar-2025 12:06:58 UTC] Users found: 2
+[15-Mar-2025 12:06:58 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+            [0] => 2
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:07:09 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:07:45 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:08:00 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:08:07 UTC] Filtering users by tag ID: 4
+[15-Mar-2025 12:08:07 UTC] Users found: 2
+[15-Mar-2025 12:08:07 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+            [0] => 2
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:08:16 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:08:35 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:14:17 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:15:24 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:15:37 UTC] Filtering users by tag ID: 10
+[15-Mar-2025 12:15:37 UTC] Users found: 4
+[15-Mar-2025 12:15:37 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+            [0] => 4
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:15:48 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:16:22 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:16:32 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:16:38 UTC] Filtering users by tag ID: 11
+[15-Mar-2025 12:16:38 UTC] Users found: 5
+[15-Mar-2025 12:16:38 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+            [0] => 5
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:16:44 UTC] Array
+(
+    [blog_id] => 1
+    [role] => 
+    [role__in] => Array
+        (
+        )
+
+    [role__not_in] => Array
+        (
+        )
+
+    [capability] => 
+    [capability__in] => Array
+        (
+        )
+
+    [capability__not_in] => Array
+        (
+        )
+
+    [meta_key] => 
+    [meta_value] => 
+    [meta_compare] => 
+    [include] => Array
+        (
+        )
+
+    [exclude] => Array
+        (
+        )
+
+    [search] => 
+    [search_columns] => Array
+        (
+        )
+
+    [orderby] => login
+    [order] => ASC
+    [offset] => 0
+    [number] => 20
+    [paged] => 1
+    [count_total] => 1
+    [fields] => all_with_meta
+    [who] => 
+    [has_published_posts] => 
+    [nicename] => 
+    [nicename__in] => Array
+        (
+        )
+
+    [nicename__not_in] => Array
+        (
+        )
+
+    [login] => 
+    [login__in] => Array
+        (
+        )
+
+    [login__not_in] => Array
+        (
+        )
+
+    [cache_results] => 1
+)
+
+[15-Mar-2025 12:17:00 UTC] PHP Warning:  wp_update_plugins(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\user_management\wp-includes\functions.php on line 6114
